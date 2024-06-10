@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lorenci.github.io/sitemap.xml
+Sitemap: https://lorencig.github.io/sitemap.xml
