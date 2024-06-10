@@ -7,10 +7,6 @@ profile:
   align: justify
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>IIT, Via Morego, 30, 16163 Genova - Italy</p>
-    <p>Ivodent, Rruga Fortuzi, 91, 1016 Tirana - Albania </p>
-    <p>The Open University, Milton Keynes, MK7 6AA, United Kingdom </p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
