@@ -10,6 +10,7 @@ email: lorencigjurgjaj@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Lorenci Gjurgjaj personal website.
 footer_text: >
+TEST
 keywords: lorenci gjurgjaj, istituto italiano di tecnologia, akademia ivodent, the open university, PhD nanochemistry, academic-website, portfolio-website, # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
