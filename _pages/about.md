@@ -2,7 +2,9 @@
 layout: about
 title: homepage
 permalink: /
-subtitle: 
+more_info: >
+    <p>Via Morego, 30, 16163 Genova - Italy</p>
+    <p>Rruga Fortuzi, 91, 1016 Tirana - Albania </p>
 
 profile:
   align: justify
