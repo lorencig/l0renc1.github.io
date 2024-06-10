@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Istituto Italiano di Tecnologia
 
 profile:
   align: justify
@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 p {
   text-align: justify;
 Greetings! 👋
-I'm Lorenci. Currently, I'm pursuing my PhD at [The Open University](https://www.open.ac.uk/) (UK) within the [School of Life, Health, and Chemical Science](https://www5.open.ac.uk/stem/life-health-chemical-sciences/). My primary focus is on advancing research at the intersection of nanomaterials and biomedical applications. Specifically, I'm based at the [Istituto Italiano di Tecnologia](https://www.iit.it/it/home) (IT) where I'm involved in the [Nanomaterials for Biomedical Applications](https://nanobio.iit.it/) department. Here, my work centers around the development of scalable methods for producing magnetic-inorganic nanomaterials tailored for applications in cancer theragnostics and other biomedical areas.
+I'm Lorenci Gjurgjaj. Currently, I'm pursuing my PhD at [The Open University](https://www.open.ac.uk/) (UK) within the [School of Life, Health, and Chemical Science](https://www5.open.ac.uk/stem/life-health-chemical-sciences/). My primary focus is on advancing research at the intersection of nanomaterials and biomedical applications. Specifically, I'm based at the [Istituto Italiano di Tecnologia](https://www.iit.it/it/home) (IT) where I'm involved in the [Nanomaterials for Biomedical Applications](https://nanobio.iit.it/) department. Here, my work centers around the development of scalable methods for producing magnetic-inorganic nanomaterials tailored for applications in cancer theragnostics and other biomedical areas.
 
 My academic journey began with a Master of Science degree in Chemistry, which I obtained from the [Uni of Tirana](https://fshn.edu.al/) (AL) and the [Uni of Maribor](https://www.fkkt.um.si/) (SI). Additionally, I had the opportunity to visit through a Short-Term-Scientific Mobility, The Institute of Bioorganic Chemistry at the [Uni of Saarland](https://www.uni-saarland.de/en/fachrichtung/pharmazie.html) (DE), where I focused on the bioactivity of different medicinal plant extractions.
 
