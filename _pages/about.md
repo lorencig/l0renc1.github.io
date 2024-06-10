@@ -1,8 +1,10 @@
 ---
 layout: about
-title: about
+title: homepage
 permalink: /
-subtitle: Istituto Italiano di Tecnologia
+subtitle: Istituto Italiano di Tecnologia, Via Morego 30, Genoa, Italy
+          Akademia Ivodent, Rruga Fortuzi 91, Tirana, Albania
+          The Open University, Walton Hall, Milton Keynes, MK7 6AA, United Kingdom
 
 profile:
   align: justify
