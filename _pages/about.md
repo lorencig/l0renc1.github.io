@@ -14,6 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+p {
+  text-align: justify;
 Greetings! 👋
 I'm Lorenci. Currently, I'm pursuing my PhD at [The Open University](https://www.open.ac.uk/) (UK) within the [School of Life, Health, and Chemical Science](https://www5.open.ac.uk/stem/life-health-chemical-sciences/). My primary focus is on advancing research at the intersection of nanomaterials and biomedical applications. Specifically, I'm based at the [Istituto Italiano di Tecnologia](https://www.iit.it/it/home) (IT) where I'm involved in the [Nanomaterials for Biomedical Applications](https://nanobio.iit.it/) department. Here, my work centers around the development of scalable methods for producing magnetic-inorganic nanomaterials tailored for applications in cancer theragnostics and other biomedical areas.
 
@@ -26,3 +28,4 @@ Beyond my research endeavors, I am deeply interested in the intersection of arti
 If you'd like to discuss potential collaborations or delve deeper into any of these areas, I'd love to connect! Feel free to reach out anytime.
 
 Farewell!
+}
