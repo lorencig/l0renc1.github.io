@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p> Istituto Italiano di Tecnologia, via Morego 30, 16163 Genoa, Italy, </p>
-<p> Ivodent Academy, rruga Fortuzi 91, 1016, Tirana, Albania, </p>
-<p> School of Life, Health & Chemical Sciences, The Open University, Walton Hall, Milton Keynes, MK7 6AA, United Kingdom </p>
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: justify
