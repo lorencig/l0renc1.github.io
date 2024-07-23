@@ -2,7 +2,7 @@
 layout: page
 title: UA OPC Python Interface
 description: This platform provides a versatile and user-friendly interface for controlling laboratory pumps via OPC UA protocol. Pumps are a critical component in fluidic systems, especially in laboratory-scale applications where precise control of fluid flow is essential. This application is specifically tailored for such applications, allowing users to automate and monitor the operation of pumps with ease and accuracy. The user can create and execute a sequence of actions for the pumps in a defined order.
-img: assets/img/UAOPC.png
+img: assets/img/OPCUA.png
 importance: 1
 category: science
 related_publications: true
@@ -146,8 +146,7 @@ This project is under Creative Commons Attribution license.
 
 This software is separated from the author's research and activity roles at their institutions.
 
-{% cite gjurgjaj2024OPCUA %}
 ---
-
+{% cite gjurgjaj2024OPCUA %}
 
 
