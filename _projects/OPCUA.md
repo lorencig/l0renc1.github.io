@@ -5,7 +5,7 @@ description: This platform provides a versatile and user-friendly interface for 
 img: assets/img/OPCUA.png
 importance: 1
 category: science
-related_publications: true
+related_publications: false
 ---
 
 [![DOI](https://zenodo.org/badge/832139320.svg)](https://zenodo.org/doi/10.5281/zenodo.12794838)
@@ -147,6 +147,5 @@ This project is under Creative Commons Attribution license.
 This software is separated from the author's research and activity roles at their institutions.
 
 ---
-{% cite gjurgjaj2024OPCUA %}
 
 
