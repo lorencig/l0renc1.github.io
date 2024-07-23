@@ -144,7 +144,7 @@ This project is under Creative Commons Attribution license.
 
 ## Disclaimer
 
-- This software is separated from the author's research and activity roles at their own institutions.
+This software is separated from the author's research and activity roles at their institutions.
 
 {% cite gjurgjaj2024OPCUA %}
 ---
