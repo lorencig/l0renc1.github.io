@@ -5,8 +5,16 @@ description: This platform provides a versatile and user-friendly interface for 
 img: assets/img/OPCUA.png
 importance: 1
 category: science
-related_publications: false
+related_publications: true
 ---
+
+<head>
+    <style>
+    .hidden-reference {
+        display: none;
+    }
+    </style>
+</head>
 
 [![DOI](https://zenodo.org/badge/832139320.svg)](https://zenodo.org/doi/10.5281/zenodo.12794838)
 
@@ -148,4 +156,4 @@ This software is separated from the author's research and activity roles at thei
 
 ---
 
-
+<span class="hidden-reference">{% cite einstein1950meaning %}</span>
