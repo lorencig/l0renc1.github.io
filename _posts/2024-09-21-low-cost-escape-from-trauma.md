@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: Low-cost tickets to escape from your discomfort triggers
 date: 2024-09-12 00:01:00-0000
 description: superficial travel experiences are often used as a coping mechanism for emotional or mental discomfort, and social media plays a role in amplifying the need for validation through travel
@@ -62,6 +62,7 @@ Travel per se or specific trending locations do not distinguish it from other ty
 By logical deduction, socials are a great marketing source, socials have a considerably huge platform of hosting users, so, socials have a considerable effect in selling travel as a concept or a specific destination. Of course, you are not the case babe!  
 
 •	What’s the effect of marketing on the hypothetical-user behavior? 
+
 •	What was the story of the campaign that they bought it? 
 
 As in each other product, they buy the product not for their own sake, but to fill the need, the desire, to solve the problem. All the previous converge in the story of experiencing pleasure through this movement.  
@@ -106,6 +107,6 @@ Both those situations, if not changed over time, risk going towards Brief Psycho
 
 {% details References %}
 1.	https://www.unwto.org/un-tourism-world-tourism-barometer-data
-2.	
-3.	https://page.warc.com/global-ad-trends-social-media-reaches-new-peaks.html
+
+2.	https://page.warc.com/global-ad-trends-social-media-reaches-new-peaks.html
 {% enddetails %}
