@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: post
 title: Low-cost tickets to escape from your discomfort triggers
 date: 2024-09-12 00:01:00-0000
 description: superficial travel experiences are often used as a coping mechanism for emotional or mental discomfort, and social media plays a role in amplifying the need for validation through travel
