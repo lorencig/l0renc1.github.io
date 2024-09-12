@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: cool projects made with love
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [science, community]
 horizontal: false
 ---
