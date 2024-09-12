@@ -11,7 +11,12 @@ toc:
   sidebar: left
 ---
 
-### i) Baseline of facts/stats
+> ##### Hypothesis
+>
+> superficial travel experiences are often used as a coping mechanism for emotional or mental discomfort, and social media plays a role in amplifying the need for validation through travel
+{: .block-tip }
+
+### 0) Baseline of facts/stats
 According to the United Nations Tourism Barometer1
 
 “_International arrivals (overnight visitors) reached 97% of 2019 levels in the first quarter of 2024, reflecting an almost complete recovery of pre-pandemic numbers._”
