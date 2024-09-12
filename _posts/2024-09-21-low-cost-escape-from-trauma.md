@@ -50,9 +50,35 @@ By logical deduction, socials are a great marketing source, socials have a consi
 •	What was the story of the campaign that they bought it? 
 As in each other product, they buy the product not for their own sake, but to fill the need, the desire, to solve the problem. All the previous converge in the story of experiencing pleasure through this movement.  
 
+## 5.	Travel as a red flag for emotional/mental discomfort
+In the theoretical group of study, I wanna focus only on those who are affected by socials to convince themselves that travel is essential for experiencing pleasure, as well as those who have superficial experiences during their travels. It should be relatively a small group, no?!
+After I tried to segmentize each part of the travel and the superficial experience itself, I wanted to understand which part of those activities acts in such a way to sense the feeling of pleasure. As pleasure has both an intrinsic and extrinsic value, we have to see it in two dimensions.
+By definition, all activities described in the superficial experience should fall on the extrinsic part of the pleasure. The physical part of the movement of the traveler should fall also on the extrinsic part of the pleasure, while the freedom sensed, the lack of responsibility and obligations, and the change of routine and habits, should by logic fall on the intrinsic value side of the pleasure.
+If we see each of the extrinsic activities that cause pleasure, we can clearly understand that all those activities can be easily done in any location and are not closely related to travel. What is special about traveling, are the intrinsic activities. If freedom, routine and habits, responsibilities and obligations are the devil you want to escape from your daily life, traveling has little to no chance of helping sustainably if always done by experiencing superficially. If freedom, change of routine and habits, lack of responsibilities and obligations are temporary pumping molecules in the nervous system experiencing real pleasure, then this should be considered very seriously about the general emotional and mental discomfort situation the person is living in every day.  
+
+## 6.	The unnecessary need to share and get attention
+Socials sold the trip. The socials should now authenticate the genuine pleasure obtained. 
+Each advertisement has a story. In socials, the dominant sense of getting the story is through the visual. As such, again through the visual loophole, the travel should be shared with the simple purpose of getting attention, validation, and improving the virtual-social ranking against those who couldn’t afford this great trip or against those who frequently post their super sunsets.
+•	When truly immersed in enjoying the moment, does the healthy mind think in that moment to get a picture through the smartphone, to share with others, not merely a comparable view of what is perceived by their eyes, in their private/intimate moments?!
+•	Is the desire for public approval a clear indication that the experience was driven by a significant degree of vanity? If so, was vanity the need that was fulfilled during this trip? 
+
+## 7.	How to deal with your beloved who has red flags
+He/she/they may be aware and recognize the emotional or mental discomfort is living in. But he/she/they, may: 
+a)	not be ready to face the problem at the moment, 
+b)	may not have the tools to face the problem. 
+If you consider a close person to have compulsive travel behavior and agree with the interpretation that there may be a relation between the need to travel and the current life situation, consider travel as a way of escaping everyday problems. Awareness, openness, and patience may be the must-needed tools to help your beloved.
 
 
+## 8.	Final remarks
+“_It is far more important to know what person the disease has than what disease the person has._” **Hippocrates**
+Emotional or mental discomfort is not a disease, and each person we can consider has those symptoms is healthy, and generally in control of their situation. Making those people consider this correlation as approximately a risk to consider, should be interpreted as good practice if the logic used above makes sense.
+In those specific situations, the risk of facing self-deception traits and cognitive dissonance is high, which means also a defensive reaction may occur. 
+According to Britannica: Self-deception is the act of making yourself believe something that is not true. Cognitive dissonance is the mental conflict that occurs when beliefs or assumptions are contradicted by new information. 
+Both those situations, if not changed over time, risk going towards Brief Psychotic Disorder or Delusional Disorder, both classified in DSM-5 Disorder Class: Schizophrenia Spectrum and Other Psychotic Disorders.          
+
+
+### References
 ```yml
-toc:
-  sidebar: left
+1.	https://www.unwto.org/un-tourism-world-tourism-barometer-data
+2.	https://page.warc.com/global-ad-trends-social-media-reaches-new-peaks.html
 ```
