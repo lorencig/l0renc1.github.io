@@ -10,7 +10,6 @@ related_posts: false
 toc:
   sidebar: left
 ---
-# Low-cost tickets to escape from your discomfort triggers
 
 ### i) Baseline of facts/stats
 According to the United Nations Tourism Barometer1
