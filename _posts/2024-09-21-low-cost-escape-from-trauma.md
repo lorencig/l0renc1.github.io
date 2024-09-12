@@ -123,3 +123,57 @@ Both those situations, if not changed over time, risk going towards Brief Psycho
 1.	https://www.unwto.org/un-tourism-world-tourism-barometer-data
 2.	https://page.warc.com/global-ad-trends-social-media-reaches-new-peaks.html
 {% enddetails %}
+
+```js
+   <div id="questionnaire"></div>
+   <button onclick="submitAnswers()">Submit</button>
+   <div id="result"></div>
+
+   <script>
+      // Build the questionnaire dynamically with JavaScript
+      const questionnaire = document.getElementById('questionnaire');
+
+      const questions = [
+         { id: 'q1', text: 'Question 1', options: ['Answer A', 'Answer B'] },
+         { id: 'q2', text: 'Question 2', options: ['Answer A', 'Answer B'] },
+         { id: 'q3', text: 'Question 3', options: ['Answer A', 'Answer B'] }
+      ];
+
+      function createQuestion(question) {
+         let questionHTML = '<p>' + question.text + '</p>';
+         question.options.forEach(option => {
+            questionHTML += `
+               <input type="radio" name="${question.id}" value="${option}">
+               ${option}<br>
+            `;
+         });
+         return questionHTML;
+      }
+
+      questions.forEach(question => {
+         questionnaire.innerHTML += createQuestion(question);
+      });
+
+      // Function to calculate and display the result
+      function submitAnswers() {
+         let result = "";
+         const q1 = document.querySelector('input[name="q1"]:checked');
+         const q2 = document.querySelector('input[name="q2"]:checked');
+         const q3 = document.querySelector('input[name="q3"]:checked');
+
+         if (!q1 || !q2 || !q3) {
+            result = "Please answer all questions!";
+         } else {
+            // Example: simple decision based on selections
+            if (q1.value === 'Answer A' && q2.value === 'Answer B' && q3.value === 'Answer A') {
+               result = "Result 1";
+            } else {
+               result = "Result 2";
+            }
+         }
+
+         document.getElementById('result').innerText = "Your result is: " + result;
+      }
+   </script>
+ ```
+
