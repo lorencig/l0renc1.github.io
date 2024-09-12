@@ -94,16 +94,16 @@ Socials sold the trip. The socials should now authenticate the genuine pleasure 
 
 Each advertisement has a story. In socials, the dominant sense of getting the story is through the visual. As such, again through the visual loophole, the travel should be shared with the simple purpose of getting attention, validation, and improving the virtual-social ranking against those who couldn’t afford this great trip or against those who frequently post their super sunsets.
 
--	When truly immersed in enjoying the moment, does the healthy mind think in that moment to get a picture through the smartphone, to share with others, not merely a comparable view of what is perceived by their eyes, in their private/intimate moments?!
+•	When truly immersed in enjoying the moment, does the healthy mind think in that moment to get a picture through the smartphone, to share with others, not merely a comparable view of what is perceived by their eyes, in their private/intimate moments?!
 
--	Is the desire for public approval a clear indication that the experience was driven by a significant degree of `vanity`? If so, was vanity the need that was fulfilled during this trip? 
+•	Is the desire for public approval a clear indication that the experience was driven by a significant degree of `vanity`? If so, was vanity the need that was fulfilled during this trip? 
 
 ## 7.	How to deal with your beloved who has red flags
 He/she/they may be aware and recognize the emotional or mental discomfort is living in. But he/she/they, may: 
 
--	not be ready to face the problem at the moment, 
+•	not be ready to face the problem at the moment, 
 
-- may not have the tools to face the problem. 
+•	may not have the tools to face the problem.  
 
 If you consider a close person to have compulsive travel behavior and agree with the interpretation that there may be a relation between the need to travel and the current life situation, consider travel as a way of escaping everyday problems. Awareness, openness, and patience may be the must-needed tools to help your beloved.
 
