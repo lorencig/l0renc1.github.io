@@ -11,9 +11,14 @@ toc:
   sidebar: left
 ---
 
-> ##### Hypothesis
+> ##### Hypothesis 01
 >
-> superficial travel experiences are often used as a coping mechanism for emotional or mental discomfort, and social media plays a role in amplifying the need for validation through travel
+> superficial travel experiences are often used as a coping mechanism for emotional or mental discomfort
+{: .block-tip }
+
+> ##### Hypothesis 02
+>
+> social media plays a role in amplifying the need for travel through validation
 {: .block-tip }
 
 ### 0) Baseline of facts/stats
