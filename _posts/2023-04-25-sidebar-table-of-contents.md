@@ -24,6 +24,11 @@ toc:
 
 ## 2
 
+# 1
+
+## 2
+
+### 3
 ```yml
 toc:
   sidebar: left
