@@ -282,7 +282,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["society", "truth", "philosophy", "health", "free will"] # these tags will be displayed on the front page of your blog
-display_categories: ["critical-observations"] # these categories will be displayed on the front page of your blog
+display_categories: ["observations"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
