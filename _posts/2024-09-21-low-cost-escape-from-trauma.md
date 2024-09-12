@@ -23,11 +23,11 @@ According to the United Nations Tourism Barometer1
 
 As is always the case with common simple words, their explanation is often vague and interpreted differently by different schools of thought. Experience, as a word, is abused while used in many contexts that are far from being experienced. 
 
-According to **Socrates** (Book I, Part I)
+According to **Aristotle** (Book I, Part I)
 
 > “_With a view to action experience seems in no respect inferior to art, and men of experience succeed even better than those who have theory without experience. The reason is that experience is knowledge of individuals, art of universals, and actions and productions are all concerned with the individual._”
 
-As for Socrates, the experience is the reality check of the theory, or in the inverse, it may also serve as the building blocks of the theory itself.
+As for Aristotle, the experience is the reality check of the theory, or in the inverse, it may also serve as the building blocks of the theory itself.
 
 According to John **Locke**, Empiricist, (An Essay Concerning Human Understanding, Book I)
 > “_So, at birth, the human mind is a sort of blank slate on which experience writes._” (tabula rasa)
