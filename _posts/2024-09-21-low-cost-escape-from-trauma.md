@@ -70,10 +70,14 @@ As in each other product, they buy the product not for their own sake, but to fi
 ## 5.	Travel as a red flag for emotional/mental discomfort
 
 In the theoretical group of study, I wanna focus only on those who are affected by socials to convince themselves that travel is essential for experiencing pleasure, as well as those who have superficial experiences during their travels. It should be relatively a small group, no?!
+
 After I tried to segmentize each part of the travel and the superficial experience itself, I wanted to understand which part of those activities acts in such a way to sense the feeling of pleasure. As pleasure has both an intrinsic and extrinsic value, we have to see it in two dimensions.
+
 By definition, all activities described in the superficial experience should fall on the extrinsic part of the pleasure. The physical part of the movement of the traveler should fall also on the extrinsic part of the pleasure, while the freedom sensed, the lack of responsibility and obligations, and the change of routine and habits, should by logic fall on the intrinsic value side of the pleasure.
 
-If we see each of the extrinsic activities that cause pleasure, we can clearly understand that all those activities can be easily done in any location and are not closely related to travel. What is special about traveling, are the intrinsic activities. If freedom, routine and habits, responsibilities and obligations are the devil you want to escape from your daily life, traveling has little to no chance of helping sustainably if always done by experiencing superficially. If freedom, change of routine and habits, lack of responsibilities and obligations are temporary pumping molecules in the nervous system experiencing real pleasure, then this should be considered very seriously about the general emotional and mental discomfort situation the person is living in every day.  
+If we see each of the extrinsic activities that cause pleasure, we can clearly understand that all those activities can be easily done in any location and are not closely related to travel. 
+
+What is special about traveling, are the intrinsic activities. If freedom, routine and habits, responsibilities and obligations are the devil you want to escape from your daily life, traveling has little to no chance of helping sustainably if always done by experiencing superficially. If freedom, change of routine and habits, lack of responsibilities and obligations are temporary pumping molecules in the nervous system experiencing real pleasure, then this should be considered very seriously about the general emotional and mental discomfort situation the person is living in every day.  
 
 ## 6.	The unnecessary need to share and get attention
 Socials sold the trip. The socials should now authenticate the genuine pleasure obtained. 
@@ -107,6 +111,5 @@ Both those situations, if not changed over time, risk going towards Brief Psycho
 
 {% details References %}
 1.	https://www.unwto.org/un-tourism-world-tourism-barometer-data
-
 2.	https://page.warc.com/global-ad-trends-social-media-reaches-new-peaks.html
 {% enddetails %}
