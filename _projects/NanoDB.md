@@ -2,7 +2,7 @@
 layout: page
 title: NanoDB - Research Activity Data Management System
 description: NanoDB is a versatile Python tool for managing experimental data, built on FAIR principles to ensure clean, structured datasets. All tabs, frames, and entries are easily editable, making it flexible for different research needs, and ready for future machine learning integration.
-img: assets/img/OPCUA.png
+img: assets/img/NanoDB.png
 importance: 1
 category: science
 related_publications: true
