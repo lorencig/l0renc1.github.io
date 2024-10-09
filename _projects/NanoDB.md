@@ -338,4 +338,4 @@ This software is separate from the author’s academic and professional roles at
 
 ---
 
-<span class="hidden-reference">{% cite gjurgjaj2024opcua %}</span>
+<span class="hidden-reference">{% cite gjurgjaj2024NanoDB %}</span>
