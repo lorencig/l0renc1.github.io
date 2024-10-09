@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NanoDB - Research Activity Data Management System
-description: NanoDB is a versatile Python tool for managing experimental data, built on FAIR principles to ensure clean, structured datasets. All tabs, frames, and entries are easily editable, making it flexible for different research needs, and ready for future machine learning integration.
+description: NanoDB is a Python-based application developed to optimize the management of experimental data in research settings. Designed with flexibility in mind, it supports the collection, organization, and export of laboratory metadata across diverse research line types. Built on the FAIR principles, by ensuring clean and well-structured datasets, NanoDB also lays the foundation for integrating machine learning, enabling more advanced data analysis and modeling in future research stages.
 img: assets/img/NanoDB.png
 importance: 1
 category: science
@@ -19,9 +19,9 @@ related_publications: true
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/07def33a8fcb4091b9c108c5bbaac068)](https://app.codacy.com/gh/lorencig/NanoDB-Research-Activity-Data-Management-System/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
-# NanoDB: Research Activity Data Management System
+# Overview NanoDB
 
-**NanoDB** is a Python-based application developed to optimize the management of experimental data in research settings. Designed with flexibility in mind, it supports the collection, organization, and export of laboratory metadata across diverse research line types. Built on the FAIR principles, by ensuring clean and well-structured datasets, NanoDB also lays the foundation for integrating machine learning, enabling more advanced data analysis and modeling in future research stages.
+NanoDB is a versatile Python tool for managing experimental data, built on FAIR principles to ensure clean, structured datasets. All tabs, frames, and entries are easily editable, making it flexible for different research needs, and ready for future machine learning integration.
  
 ---
 
