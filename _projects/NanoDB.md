@@ -84,6 +84,8 @@ You can fork the project on GitHub and tailor it to your needs. Please share any
 
 # 🛠️ Code Structure aka Documentation
 
+---
+
 ## 📂 Files
 
 - **`main.py`**: The core script for running the app.
