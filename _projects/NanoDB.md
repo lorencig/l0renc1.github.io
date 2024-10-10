@@ -19,20 +19,28 @@ related_publications: true
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/07def33a8fcb4091b9c108c5bbaac068)](https://app.codacy.com/gh/lorencig/NanoDB-Research-Activity-Data-Management-System/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
-# Overview NanoDB
+# 🌎 Overview NanoDB
 
-NanoDB is a tool for managing experimental data, built on FAIR principles to ensure clean, structured datasets. All tabs, frames, and entries are easily editable, making it flexible for different research needs, and ready for future machine learning integration.
+Those who work daily in the lab know that keeping experimental data well-structured is a tough task, often leading to data loss. 
+Tools like LIMS and ELNs help but are usually expensive and hard to adapt to specific project workflows or algorithms. Not to mention issues with data integrity, ownership, and transfer. 
+
+To address these challenges, with colleagues at [IIT](https://nanobio.iit.it/) have developed a fully customizable Python-based app for managing our experiments. It uses a local database, giving us full control over our data. The current version includes dynamic data entry, data editing, PDF report generation, and image compression.
+
+We published the blueprint of this app as open-source code from which you can easily adjust the fields and add new functions based on your specific project. 
+This makes the app adaptable to the needs of each department, offering a free, versatile, and practical solution.
+
+You can fork the project on GitHub and tailor it to your needs. Please share any improvements that could help the community, and we’re happy to assist if you run into any issues—check the readme for detailed operational instructions.
  
 ---
 
 ## ✨ Key Features
 
 1. **Intuitive User Interface**:
-   - Our example contains four main tabs guide users through the data collection process, **but all the tabs, frames and entries can be easily changed**:
+   - Our example contains four main tabs that guide users through the data collection process, **but all the tabs, frames, and entries can be easily changed**:
      - **Intro**: Enter basic information about the sample, create new entry or call old sample data throught the search bar. All entries will appear in the listbox. Type of entries used: Combobox, Comment, Date, Simple Entry.
      - **Synthesis**: Type of entries used: Combobox, Simple Entry, dynamic entries based on selected values.
      - **Characterization**: Type of entries used: Combobox, Spinbox, Simple Entry, dynamic entries based on selected values.
-     - **Save & Export**: Save the data to the local DB, generate report in PDF and zip images renamed after the sample name.
+     - **Save & Export**: Save the data to the local DB, generate a report in PDF, and zip images renamed after the sample name.
 
 2. **Dynamic Data Fields**:
    - The form fields are adaptive based on user input, offering a customized experience that evolves as different data is input across the tabs.
@@ -74,7 +82,7 @@ NanoDB is a tool for managing experimental data, built on FAIR principles to ens
 
 ---
 
-## 🛠️ Code Structure aka Documentation
+# 🛠️ Code Structure aka Documentation
 
 ## 📂 Files
 
@@ -306,7 +314,7 @@ To create a standalone executable (.exe) for Windows using PyInstaller, follow t
 ## 🆘 Need Help?
 
 - Check out our [Documentation](#)
-- Contact the maintainers directly
+- Contact the [maintainers](mailto:lorencigjurgjaj@gmail.com) directly 
 
 ---
 
