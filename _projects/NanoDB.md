@@ -89,7 +89,9 @@ NanoDB is a tool for managing experimental data, built on FAIR principles to ens
 - **`synthesis_tab.py`**: The second tab of the app, containing generally combobox and simple text type of entry.
 - **`characterization_tab.py`**: The third tab of the app, containing generally spinbox, combobox and simple text type of entry.
 - **`save_export_tab.py`**: The last tab of the app, containing the functions to write/edit the entry on the DB, generate the PDF containing also images (optional), compressing images saving it with the Sample name prefix, restart the app to ensure a clean insertion of a new entry.
+  
 ---
+
 ## 🧠 Functions and code logic
 
 ### main.py
@@ -116,9 +118,6 @@ NanoDB is a tool for managing experimental data, built on FAIR principles to ens
             
         *   Change tab order by reordering the self.notebook.add() calls.
             
-
-### intro\_tab.py
-
 #### Class: IntroTab
 
 *   **setup\_widgets(self)**:
@@ -170,9 +169,6 @@ NanoDB is a tool for managing experimental data, built on FAIR principles to ens
         *   Select which fields are filled out and how.
             
         *   Add new fields to be filled out when an item is selected.
-            
-
-### synthesis\_tab.py and characterization\_tab.py
 
 #### Class: SynthesisTab and CharacterizationTab
 
@@ -196,8 +192,6 @@ NanoDB is a tool for managing experimental data, built on FAIR principles to ens
         *   Create the appearance or behavior of the label frames.
             
         *   Add additional customization options for frames.
-            
-### save\_export\_tab.py
 
 #### Class: SaveExportTab
           
@@ -235,7 +229,6 @@ NanoDB is a tool for managing experimental data, built on FAIR principles to ens
 
         *   Limit the maximal number of images that can be added.
         
-
             
 *   **create\_zip(self, zip\_path)**:
     
@@ -248,7 +241,9 @@ NanoDB is a tool for managing experimental data, built on FAIR principles to ens
         *   Add additional files or data to be included in the zip.
 
         *   Give to the user the choice of where to save localy.
+        
 ---
+
 ## 〰 Data Flow
 
 ```plaintext
@@ -265,6 +260,9 @@ NanoDB is a tool for managing experimental data, built on FAIR principles to ens
                    └─────────────┘
 ```
 
+---
+
+
 ## 📤Exporting Data
 
 NanoDB offers multiple export options:
@@ -272,6 +270,7 @@ NanoDB offers multiple export options:
 - Excel: Full dataset export
 - PDF: Formatted report of individual experiments
 - Image ZIP: Collated images for each experiment
+
 ---
 
 ## 💾 Creating Executable
@@ -301,17 +300,15 @@ To create a standalone executable (.exe) for Windows using PyInstaller, follow t
 - **ttkbootstrap**: Provides a sleek interface and theming for the app.
 - **OpenPyXL**: Used for handling Excel files for data storage.
 - **ReportLab**: Library for generating PDF reports.
-- **Pillow**: Handles image management within the app.
 
 ---
-
-
 
 ## 🆘 Need Help?
 
 - Check out our [Documentation](#)
 - Contact the maintainers directly
 
+---
 
 ## 📜 License
 
@@ -332,7 +329,7 @@ This software is separate from the author’s academic and professional roles at
 ![ttkbootstrap](https://img.shields.io/badge/ttkbootstrap-%230081CB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-%232536A4.svg?style=for-the-badge&logo=python&logoColor=white)
 ![ReportLab](https://img.shields.io/badge/ReportLab-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-%232B2B2B.svg?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
