@@ -314,7 +314,7 @@ To create a standalone executable (.exe) for Windows using PyInstaller, follow t
 ## 🆘 Need Help?
 
 - Check out our [Documentation](#)
-- Contact the [maintainers](mailto:lorencigjurgjaj@gmail.com) directly 
+- Contact the [maintainers](mailto:lorencigjurgjaj@gmail.com?subject=NanoDB%20App) directly 
 
 ---
 
