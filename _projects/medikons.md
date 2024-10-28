@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MEDIKONS - Your AI Based Health Assistant
+title: MEDIKONS - Your AI Health Assistant
 description: Medikons is an Albanian-language AI health assistant that simplifies clinical test results, enabling Albanian-speaking users to understand their health data and access specialist recommendations. Focused on bridging public health data gaps in Albania and Kosovo, Medikons provides secure data storage and promotes health awareness.
 img: assets/img/vitruvian.png
 importance: 2
@@ -16,6 +16,8 @@ giscus_comments: true
     </style>
 </head>
 
+[App link](https://www.medikons.com "Your AI Health Assistant")
+
 # 🌎 Overview 
 
 Medikons is an Albanian-language AI health assistant that simplifies clinical test results, enabling Albanian-speaking users to understand their health data and access specialist recommendations. Focused on bridging public health data gaps in Albania and Kosovo, Medikons provides secure data storage and promotes health awareness.
@@ -24,7 +26,7 @@ Medikons is an Albanian-language AI health assistant that simplifies clinical te
 
 ## 🎯 About Medikons
 
-Medikons is an innovative platform based on Artificial Intelligence, designed to break down complex information from clinical analysis results into clear, simple language. Medikons aims to help individuals develop the essential knowledge needed to interpret their analysis results independently, ensuring everyone can proactively engage with their health data. Through this mechanism, we aim to improve public health awareness and encourage individuals to adopt healthier lifestyles.
+Medikons is an innovative platform based on Artificial Intelligence, designed to break down complex information from clinical analysis results into clear, simple language. Medikons aims to help individuals develop the essential knowledge to interpret their analysis results independently, ensuring everyone can proactively engage with their health data. Through this mechanism, we aim to improve public health awareness and encourage individuals to adopt healthier lifestyles.
 
 ---
 
@@ -36,7 +38,7 @@ Our platform allows you to upload test results in various formats, such as PDFs,
 
 ### 👨🏻‍⚕️ Tailored to each user
 
-If a result is outside normal ranges, Medikons suggests the type of specialist you may want to consult, guiding you towards the best next steps for your health. While Medikons provides general health knowledge, it is essential to remember that **Medikons does not replace professional medical advice or diagnosis.**
+If a result is outside normal ranges, Medikons suggests the type of specialist you may want to consult, guiding you toward the best next steps for your health. While Medikons provides general health knowledge, it is essential to remember that **Medikons does not replace professional medical advice or diagnosis.**
 
 ---
 
