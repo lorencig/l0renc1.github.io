@@ -15,7 +15,7 @@ category: community
     </style>
 </head>
 
-[Medikons App link](https://www.medikons.com "Your AI Health Assistant")
+>[***Medikons App link***](https://www.medikons.com "Your AI Health Assistant")
 
 # 🌎 Overview 
 
