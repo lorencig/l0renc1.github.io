@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MEDIKONS: Your AI-Based Health Assistant
+title: MEDIKONS - Your AI Based Health Assistant
 description: Medikons is an Albanian-language AI health assistant that simplifies clinical test results, enabling Albanian-speaking users to understand their health data and access specialist recommendations. Focused on bridging public health data gaps in Albania and Kosovo, Medikons provides secure data storage and promotes health awareness.
 img: assets/img/vitruvian.png
 importance: 2
