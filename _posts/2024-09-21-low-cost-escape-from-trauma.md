@@ -58,11 +58,7 @@ Superficial experiences are those that are perceived through simple sensory expe
 
 By travel, we intend to move physically from the traditional living place to a new area, considerably far from the so-called, home. By travel we also consider breaking the daily routine and by logic, also the habits. Travel generally means not working, or, as it is said plainly, less responsibility. The detachment from everyday obligations gives a sense of temporary freedom. Depending on the type of travel, it may also involve immersion in new cultures, languages, social interactions, and physical locations which can broaden one's worldview and offer fresh perspectives.
 
-## 3.	Outcome of Traveling
-
-Measurable outcomes are photos and souvenirs. Their relation to memories and experience.
-
-## 4.	Socials, the marketing of the hidden product
+## 3.	Socials, the marketing of the hidden product
 Marketing works. Nothing new. Socials are one of the biggest markets for promoting every type of product or service. 
 
 > Fact check “According to World Advertising Research Center Media, social media is the largest media channel worldwide by advertising investment, with Meta alone representing a 63% share of global social spend.”2
@@ -77,7 +73,7 @@ By logical deduction, socials are a great marketing source, socials have a consi
 
 As in each other product, they buy the product not for their own sake, but to fill the need, the desire, to solve the problem. All the previous converge in the story of experiencing pleasure through this movement.  
 
-## 5.	Travel as a red flag for emotional/mental discomfort
+## 4.	Travel as a red flag for emotional/mental discomfort
 
 In the theoretical group of study, I wanna focus only on those who are affected by socials to convince themselves that travel is essential for experiencing pleasure, as well as those who have superficial experiences during their travels. It should be relatively a small group, no?!
 
@@ -89,7 +85,7 @@ If we see each of the extrinsic activities that cause pleasure, we can clearly u
 
 What is special about traveling, are the intrinsic activities. If freedom, routine and habits, responsibilities and obligations are the devil you want to escape from your daily life, traveling has little to no chance of helping sustainably if always done by experiencing superficially. If freedom, change of routine and habits, lack of responsibilities and obligations are temporary pumping molecules in the nervous system experiencing real pleasure, then this should be considered very seriously about the general emotional and mental discomfort situation the person is living in every day.  
 
-## 6.	The unnecessary need to share and get attention
+## 5.	The unnecessary need to share and get attention
 Socials sold the trip. The socials should now authenticate the genuine pleasure obtained. 
 
 Each advertisement has a story. In socials, the dominant sense of getting the story is through the visual. As such, again through the visual loophole, the travel should be shared with the simple purpose of getting attention, validation, and improving the virtual-social ranking against those who couldn’t afford this great trip or against those who frequently post their super sunsets.
@@ -98,7 +94,7 @@ Each advertisement has a story. In socials, the dominant sense of getting the st
 
 •	Is the desire for public approval a clear indication that the experience was driven by a significant degree of `vanity`? If so, was vanity the need that was fulfilled during this trip? 
 
-## 7.	How to deal with your beloved who has red flags
+## 6.	How to deal with your beloved who has red flags
 He/she/they may be aware and recognize the emotional or mental discomfort is living in. But he/she/they, may: 
 
 •	not be ready to face the problem at the moment, 
@@ -108,7 +104,7 @@ He/she/they may be aware and recognize the emotional or mental discomfort is liv
 If you consider a close person to have compulsive travel behavior and agree with the interpretation that there may be a relation between the need to travel and the current life situation, consider travel as a way of escaping everyday problems. Awareness, openness, and patience may be the must-needed tools to help your beloved.
 
 
-## 8.	Final remarks
+## 7.	Final remarks
 > “_It is far more important to know what person the disease has than what disease the person has._”
 
 **Hippocrates**
