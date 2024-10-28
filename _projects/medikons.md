@@ -5,7 +5,6 @@ description: Medikons is an Albanian-language AI health assistant that simplifie
 img: assets/img/vitruvian.png
 importance: 2
 category: community
-giscus_comments: true
 ---
 
 <head>
